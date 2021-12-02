@@ -1,6 +1,6 @@
 #### Step
 
-##### Run docker
+##### Run container
 
 ./vendor/bin/sail up
 
